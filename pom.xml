@@ -38,9 +38,9 @@
 		<module>../xd</module>
     <module>../dns-sboot</module>
     <module>../config-manager</module>
-		<module>../direct-project-stock</module>
 		<module>../direct-smtp-mq-gateway</module>
 		<module>../direct-sta-sboot</module>
+    <module>../direct-james-server</module>
 	</modules>
          
 </project>
